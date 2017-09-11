@@ -1,29 +1,32 @@
 {
-  "name": "node_mongoose",
-  "version": "0.0.1",
-  "description": "Subscription of clients",
-  "dependencies": {
-    "mongoose": "*",
-    "express": "*",
-    "body-parser": "*"
-  },
-  "main": "app.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/msc0001/ojam_server.git"
-  },
-  "keywords": [
-    "mongoose",
-    "express"
-  ],
-  "author": "MS",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/msc0001/ojam_server/issues"
-  },
-  "homepage": "https://github.com/msc0001/ojam_server#readme"
+    "name": "node_mongoose",
+    "version": "0.0.1",
+    "description": "Subscription of clients",
+    "dependencies": {
+        "mongoose": "*",
+        "express": "*",
+        "body-parser": "*"
+    },
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "npm test",
+        "start": "node start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/msc0001/ojam_server.git"
+    },
+    "keywords": [
+        "mongoose",
+        "express",
+        "node",
+        "heroku"
+    ],
+    "author": "MS",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/msc0001/ojam_server/issues"
+    },
+    "homepage": "https://github.com/msc0001/ojam_server#readme"
 }
