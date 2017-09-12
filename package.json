@@ -21,7 +21,8 @@
         "mongoose",
         "express",
         "node",
-        "heroku"
+        "heroku",
+        "body-parser"
     ],
     "author": "MS",
     "license": "ISC",
