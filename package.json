@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "description": "Subscription of clients",
     "dependencies": {
+        "ejs": "2.5.7",
         "mongoose": "*",
         "express": "*",
         "body-parser": "*"
@@ -10,8 +11,7 @@
     "main": "app.js",
     "devDependencies": {},
     "scripts": {
-        "test": "npm test",
-        "start": "node start"
+        "start": "node app.js"
     },
     "repository": {
         "type": "git",
